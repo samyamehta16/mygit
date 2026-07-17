@@ -1,4 +1,4 @@
-# mygit — a Git implementation in Java
+# MyGit — a Git implementation in Java
 
 A from-scratch reimplementation of Git's core internals, built to understand how content-addressable storage, snapshots, and version history actually work under the hood — not just how to call `git` commands.
 
